@@ -1,0 +1,18 @@
+body {
+  background-color: cyan
+}
+
+h1 {
+  font-family: cursive;
+}
+
+h2 {
+  font-family: papyrus;
+}
+a{
+  font-family: cursive;
+  font-size: 50px;
+
+}
+a:hover{
+  color:#e7ccff;
