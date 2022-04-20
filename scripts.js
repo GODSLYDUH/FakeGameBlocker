@@ -4,7 +4,7 @@ loader.innerHTML = "Detecting.."
 setTimeout(() => {
   alert("Found video games on device..");
   setTimeout(() => {
-    loader.innerHTML = "We have found Roblox, and Fortnite on your computer.."
+    loader.innerHTML = "We have found Roblox,Valorant and Fortnite on your computer.."
     setTimeout(() => {
       alert("Deleting games..")
       setTimeout(() => {
